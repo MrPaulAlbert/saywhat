@@ -20,9 +20,9 @@ I apologize for the not-yet-ready for prime time nature of these files.  They re
 
 5_3_23 Simpsons Master.xslx – Spreadsheet containing the various Simpson’s Index of Similarity calculation measures developed showing data and an overview tab summarizing results.  Not all measures were discussed in the talk.
 
-Scrape Master – Spreadsheet containing results from original web scrape of the catalog using a tool called Octoparse.
+12_11_21 DO Scrape Data.xlsx – Spreadsheet containing results from original web scrape of the catalog using a tool called Octoparse.  Additional fields were added based on text analysis.  This file contains all the seals that were available through the website on 12/11/21.  Note, this file contains multiple rows for some seals.  If a seal was said to belong to multiple centuries, it was given a row for each century.  (22.5K rows)
 
-Single Record Abbreviated Master – Spreadsheet containing one row per seal giving different Century Max and Century Min values.  Used in the early part of my latest work but then I began working with Duplicate Record Master.
+Single Record Abbreviated Master – Spreadsheet containing the subset of seals used for latest analysis (seals with complete inscriptions in Greek from 6th through 12the century).  One row per seal giving different Century Max and Century Min values.  Used in the early part of my latest work but then I began working with Duplicate Record Master.
 
 Duplicate Record Master – Spreadsheet containing multiple rows for seals.  Used in the final part of the latest work.  If a seal was said to belong to “10th/11th” century, the seal was given one row for 10th and one row for 11th.  The field “Simple Seal Count Avg” would then give the seal a weight of 0.5 for the 10th century and a weight of 0.5 for the 11th century.
 

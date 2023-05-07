@@ -21,7 +21,7 @@ An online version of the Tableau workbook used to create the charts presented in
 ## Data Overview
 I apologize for the not-really-ready for prime time nature of these files.  They reflect my internal work process (documented, but not as well as I’d like looking back!) and are not meant to be a finished, easily understood, product.  Nevertheless, I share them as is to the community in the chance they might be useful.  If you dive deep into them, I’m sure you will have questions.  Just drop me a line and I’ll do my best to help!
 
-5_3_23 Simpsons Master.xslx – Spreadsheet containing the various Simpson’s Index of Similarity calculation measures developed showing data and an overview tab summarizing results.  Not all measures were discussed in the talk.
+5_3_23 Simpsons Master.xslx – Spreadsheet containing the various [Simpson’s Index of Similarity](http://www.countrysideinfo.co.uk/simpsons.htm) calculation measures developed showing data and an overview tab summarizing results.  Not all measures were discussed in the talk.
 
 12_11_21 DO Scrape Data.xlsx – Spreadsheet containing results from original web scrape of the catalog using a tool called Octoparse.  Additional fields were added based on text analysis.  This file contains all the seals that were available through the website on 12/11/21.  Note, this file contains multiple rows for some seals.  If a seal was said to belong to multiple centuries, it was given a row for each century.  (22.5K rows)
 

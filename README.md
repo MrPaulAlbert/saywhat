@@ -24,6 +24,5 @@ I apologize for the not-yet-ready for prime time nature of these files.  They re
 
 4_19_23 one row per seal _ subset of seals.xlsx – Spreadsheet containing the subset of seals used for latest analysis (seals with complete inscriptions in Greek from 6th through 12the century).  One row per seal giving different Century Max and Century Min values.  Used in the early part of my latest work but then I began working with Duplicate Record Master. (12.2K rows)
 
-Duplicate Record Master – Spreadsheet containing multiple rows for seals.  Used in the final part of the latest work using subset of original scrape.  If a seal was said to belong to “10th/11th” century, the seal was given one row for 10th and one row for 11th.  The field “Simple Seal Count Avg” would then give the seal a weight of 0.5 for the 10th century and a weight of 0.5 for the 11th century. (24.4K rows)
+5_3_23 Pivoted Data.xlsx – Spreadsheet containing multiple rows for seals.  Used in the final part of the latest work using the same subset of original scrape.  If a seal was said to belong to “10th/11th” century, the seal was given one row for 10th and one row for 11th.  The field “Simple Seal Count Avg” would then give the seal a weight of 0.5 for the 10th century and a weight of 0.5 for the 11th century. (24.4K rows)
 
-Single Record Verbose Master – The journey was long and windy between the initial Scrape Master and the latter two worksheets listed above.  This worksheet contains an interim snapshot of the most verbose and complete set of fields developed from the Scrape Master.

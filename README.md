@@ -12,7 +12,7 @@ Presentation Slide Deck – The PowerPoint Slides used in the talk (includes som
 
 An online version of the Tableau workbook used to create the charts presented in the talk - https://public.tableau.com/views/5_7_23DOSealsPresentationFinalMaster/SealCountandProportionbyCentury2?:language=en-US&:display_count=n&:origin=viz_share_link
 
-(Note, Tableau does offer free Academic researcher licenses and you can download this workbook locally and work with it in Tableau)
+(Note, Tableau does offer free Academic researcher licenses and you can download this workbook locally and work with it in Tableau Desktop)
 
 
 ## Data Overview

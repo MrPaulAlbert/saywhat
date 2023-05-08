@@ -5,7 +5,7 @@
 
 ## Overview
 
-This site contains my personal internal work product from my research on the Dumbarton Oak Seal Catalogue.
+This site contains the internal work product from my research on the Dumbarton Oak Seal Catalogue.
 
 ## Talk
 

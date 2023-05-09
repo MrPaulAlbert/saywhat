@@ -9,7 +9,7 @@ This site contains the internal work product from my research on the Dumbarton O
 
 ## Talk
 
-Presentation Talk Notes – The text of my presentation titled “Say What?” to the International Congress on Medieval Studies, May 11, 2023
+5_7_23 Kalamazoo Talk.docx – The text of my presentation (with slide images) titled “Say What?” to the International Congress on Medieval Studies, May 11, 2023
 
 Presentation Slide Deck – The PowerPoint Slides used in the talk (includes some hidden slides, notably Dall-e generated images).
 

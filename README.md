@@ -8,8 +8,7 @@
 This site contains the internal work product from my research on the Dumbarton Oak Seal Catalogue.
 
 ## Talk
-
-5_7_23 Kalamazoo Talk.docx – The text of my presentation (with slide images) titled “Say What?” to the International Congress on Medieval Studies, May 11, 2023
+5_7_23 Kalamazoo Talk.pdf – The text of my presentation (with slide images) titled “Say What?” to the International Congress on Medieval Studies, May 11, 2023
 
 5_9_23 Kalamazoo Slides GitHub.pptx – The PowerPoint Slides used in the talk (includes some hidden slides, notably Dall-e generated images).
 

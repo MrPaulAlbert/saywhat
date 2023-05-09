@@ -11,7 +11,7 @@ This site contains the internal work product from my research on the Dumbarton O
 
 5_7_23 Kalamazoo Talk.docx – The text of my presentation (with slide images) titled “Say What?” to the International Congress on Medieval Studies, May 11, 2023
 
-Presentation Slide Deck – The PowerPoint Slides used in the talk (includes some hidden slides, notably Dall-e generated images).
+5_9_23 Kalamazoo Slides GitHub.pptx – The PowerPoint Slides used in the talk (includes some hidden slides, notably Dall-e generated images).
 
 An online version of the Tableau workbook used to create the charts presented in the talk - https://public.tableau.com/views/5_7_23DOSealsPresentationFinalMaster/SealCountandProportionbyCentury2?:language=en-US&:display_count=n&:origin=viz_share_link
 

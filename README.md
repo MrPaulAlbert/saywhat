@@ -5,7 +5,7 @@
 
 ## Overview
 
-This site contains the internal work product from my research on the Dumbarton Oak Seal Catalogue.
+This site contains the internal work product on the Dumbarton Oak Seal Catalogue that supported a 5/11/23 talk.  For other work I've done with the seals, see https://visualhumanist.com/fun-with-do-seals-1-12-22/.
 
 ## Talk
 5_11_23 Kalamazoo Talk.pdf – The text of my presentation (with slide images) titled “Say What?” to the International Congress on Medieval Studies, May 11, 2023

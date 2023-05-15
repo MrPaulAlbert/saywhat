@@ -1,6 +1,6 @@
 # Say What?  Searching for Social Conformity and Diversity Using Byzantine Seals
 
-<img width="200" alt="image" src="https://user-images.githubusercontent.com/28079401/236700529-0d5bf2b9-c53e-474c-ae3c-a2a05f24f6ba.png"><img width="200" alt="image" src="https://user-images.githubusercontent.com/28079401/236700739-411f1117-9c87-4d05-97ef-7e01565f782f.png"><img width="200" alt="image" src="https://user-images.githubusercontent.com/28079401/236700589-c5691c78-8372-4dd9-84d7-621ff58f297c.png">
+<img width="200" alt="image" src="https://user-images.githubusercontent.com/28079401/236700529-0d5bf2b9-c53e-474c-ae3c-a2a05f24f6ba.png">" "<img width="200" alt="image" src="https://user-images.githubusercontent.com/28079401/236700739-411f1117-9c87-4d05-97ef-7e01565f782f.png">" "<img width="200" alt="image" src="https://user-images.githubusercontent.com/28079401/236700589-c5691c78-8372-4dd9-84d7-621ff58f297c.png">
 
 
 ## Overview
